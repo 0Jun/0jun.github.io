@@ -1,16 +1,18 @@
+/* Fonts */
+
 @font-face {
-    font-family: cavestory;
-    src: url(../fonts/Cave-Story.ttf);
+    font-family: font_pixel;
+    src: url(../fonts/coolville.ttf);
 }
+
+/* Styling */
 
 body{
     background-color: #060606;
+    color: white;
 }
 
-
-
-body>p{
-    font-family: 'cavestory';
-    font-size: 75px;
-    color: white;
+body{
+    font-family: 'font_pixel';
+    font-size: 20px;
 }
