@@ -1,0 +1,16 @@
+@font-face {
+    font-family: cavestory;
+    src: url(../fonts/Cave-Story.ttf);
+}
+
+body{
+    background-color: #060606;
+}
+
+
+
+body>p{
+    font-family: 'cavestory';
+    font-size: 75px;
+    color: white;
+}
